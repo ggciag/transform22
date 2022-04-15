@@ -29,6 +29,8 @@ geodynamics.
 So we'll explane what to create the input file for this scenario, run the model
 using _Mandyoc_ and plot the results.
 
+<img src="continental-rift.gif" width="1500" height="600"/>
+
 ## Before the tutorial
 
 Make sure you've done these things **before the tutorial on Monday**:
