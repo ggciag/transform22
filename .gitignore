@@ -1,0 +1,7 @@
+img-*
+input_*
+interfaces.txt
+param.txt
+
+__pycache__/
+.ipynb_checkpoints/
