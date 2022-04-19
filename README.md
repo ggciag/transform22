@@ -26,7 +26,7 @@ in extensional or collisional tectonics.
 In this opportunity, we will present a showcase to simulates the evolution of
 divergent margins taking into account the plastic rheology and the sin-rift
 geodynamics.
-So we'll explane what to create the input file for this scenario, run the model
+So we'll explane how to create the input file for this scenario, run the model
 using _Mandyoc_ and plot the results.
 
 <img src="img/continental-rift.gif" width="1500" height="600"/>
