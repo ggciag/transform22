@@ -3,7 +3,7 @@
 import numpy as np
 import pandas as pd
 
-def Diffusion_equation(temp_z, z, interfaces, H, dt, dz, kappa, ccapacity):
+def diffusion_equation(temp_z, z, interfaces, H, dt, dz, kappa, ccapacity):
     """
     Apply the 1-D diffusion equation
     """
