@@ -3,10 +3,14 @@
 The [Mandyoc tutorial at Transform 22](https://softwareunderground.org/t22-instructor-info)
 
 **Instructors:**
-[Agustina Pesce](https://github.com/aguspesce),
-[Victor Sacek](https://github.com/victorsacek),
-[Jamison Assunção](https://github.com/jamisonassuncao) and
-[Rafael Monteiro da Silva](https://github.com/rafaelmds)
+[Agustina Pesce](https://github.com/aguspesce)<sup>1,2</sup> ([ORCID](https://orcid.org/0000-0002-5538-8845)),
+[Victor Sacek](https://github.com/victorsacek)<sup>3</sup> ([ORCID](https://orcid.org/0000-0001-9598-5081)),
+[Jamison Assunção](https://github.com/jamisonassuncao)<sup>3</sup> ([ORCID](https://orcid.org/0000-0003-2822-2417)) and
+[Rafael Monteiro da Silva](https://github.com/rafaelmds)<sup>3</sup> ([ORCID](https://orcid.org/0000-0001-8645-2443))
+
+> <sup>1</sup> Instituto Geofísico Sismológico Ing. Volponi, Universidad Nacional de San Juan, Argentina
+> <br> <sup>2</sup> CONICET, Argentina
+> <br> <sup>3</sup> Instituto de Astronomia, Geofísica e Ciências Atmosféricas, Universidade de São Paulo, Brazil
 
 |                       | Info                                                                               |
 | --------------------: | :--------------------------------------------------------------------------------- |
